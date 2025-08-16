@@ -1,0 +1,22 @@
+{
+  "name": "Heritage General Trading LLC FZ",
+  "short_name": "Heritage Trading",
+  "description": "Leading general trading company in Dubai, UAE",
+  "icons": [
+    {
+      "src": "/assets/images/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#003366",
+  "background_color": "#003366",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
